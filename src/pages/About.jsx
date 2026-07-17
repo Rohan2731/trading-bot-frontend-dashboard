@@ -23,6 +23,7 @@ function About() {
         <p>Python Developer</p>
         <p>AI/ML Enthusiast</p>
         <p>Interested in Quantitative Finance and Data Analytics</p>
+        <p><a href="https://rohan-portfolio-orpin.vercel.app/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: "underline", backgroundColor: "lightblue" }}>You can visit my Portfolio Here</a></p>
       </div>
 
       <br />
